@@ -1,11 +1,11 @@
 
-from random import randint
-from collections import OrderedDict
-from scipy.spatial import distance as dist
-import cv2 as cv
+# from random import randint
+# from collections import OrderedDict
+# from scipy.spatial import distance as dist
+# import cv2 as cv
 import numpy as np
 import tensorflow as tf
-import cv2
+# import cv2
 import time
 import os
 import tensorflow.compat.v1 as tf
