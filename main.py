@@ -906,11 +906,8 @@ import tkinter.messagebox as mbox
 from tkinter import filedialog
 from PIL import ImageTk, Image
 import cv2
-import imutils
 import argparse
-import time
-import numpy as np
-from persondetection import TrackableObject,CentroidTracker,DetectorAPI
+from persondetection import DetectorAPI
 import matplotlib.pyplot as plt
 
 
