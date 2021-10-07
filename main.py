@@ -463,7 +463,7 @@ if exit1==False:
                 ret, frame = cap.read()
                 if ret == True:
                     img = cv2.resize(frame, (800, 500))
-                    cv2.imshow('Frame', img)
+                    cv2.imshow('Selected Video Preview', img)
                     if cv2.waitKey(25) & 0xFF == ord('q'):
                         break
                 else:
