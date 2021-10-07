@@ -45,14 +45,38 @@
 ### SCREENSHOTS :
 
 <p align="center">
-  <img width = 1000 src="Images/1.jpg" /><br>
-  <img width = 1000 src="Images/2.jpg" /><br>
-  <img width = 1000 src="Images/3.jpg" /><br>
-  <img width = 1000 src="Images/4.jpg" /><br>
-  <img width = 1000 src="Images/5.jpg" /><br>
-  <img width = 1000 src="Images/6.jpg" /><br>
-  <img width = 1000 src="Images/7.jpg" /><br>
-  <img width = 1000 src="Images/8.jpg" /><br>
+  <img width = 1000 src="Screenshots/1.jpg" /><br>
+  <img width = 1000 src="Screenshots/2.jpg" /><br>
+</p>
+#### Image:
+<p align="center">
+  <img width = 1000 src="Screenshots/3.jpg" /><br>
+  <img width = 1000 src="Screenshots/4.jpg" /><br>
+  <img width = 1000 src="Screenshots/5.jpg" /><br>
+  <img width = 1000 src="Screenshots/6.jpg" /><br>
+  <img width = 1000 src="Screenshots/7.jpg" /><br>
+  <img width = 1000 src="Screenshots/8.jpg" /><br>
+  <img width = 1000 src="Screenshots/9.jpg" /><br>
+  <img width = 1000 src="Screenshots/10.jpg" /><br>
+  <img width = 1000 src="Screenshots/11.jpg" /><br>
+  <img width = 1000 src="Screenshots/12.jpg" /><br>
+</p>
+#### Video:
+<p align="center">
+  <img width = 1000 src="Screenshots/13.jpg" /><br>
+  <img width = 1000 src="Screenshots/14.jpg" /><br>
+  <img width = 1000 src="Screenshots/15.jpg" /><br>
+  <img width = 1000 src="Screenshots/16.jpg" /><br>
+  <img width = 1000 src="Screenshots/17.jpg" /><br>
+</p>
+#### Camera:
+<p align="center">
+  <img width = 1000 src="Screenshots/18.jpg" /><br>
+  <img width = 1000 src="Screenshots/19.jpg" /><br>
+  <img width = 1000 src="Screenshots/20.jpg" /><br>
+  <img width = 1000 src="Screenshots/21.jpg" /><br>
+  <img width = 1000 src="Screenshots/22.jpg" /><br>
+  <img width = 1000 src="Screenshots/23.jpg" /><br>
 </p>
 
 
