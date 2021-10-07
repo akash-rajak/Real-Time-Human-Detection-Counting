@@ -48,7 +48,9 @@
   <img width = 1000 src="Screenshots/1.jpg" /><br>
   <img width = 1000 src="Screenshots/2.jpg" /><br>
 </p>
-#### Image:
+
+- #### Image:
+
 <p align="center">
   <img width = 1000 src="Screenshots/3.jpg" /><br>
   <img width = 1000 src="Screenshots/4.jpg" /><br>
@@ -61,7 +63,9 @@
   <img width = 1000 src="Screenshots/11.jpg" /><br>
   <img width = 1000 src="Screenshots/12.jpg" /><br>
 </p>
-#### Video:
+
+- #### Video:
+
 <p align="center">
   <img width = 1000 src="Screenshots/13.jpg" /><br>
   <img width = 1000 src="Screenshots/14.jpg" /><br>
@@ -69,7 +73,9 @@
   <img width = 1000 src="Screenshots/16.jpg" /><br>
   <img width = 1000 src="Screenshots/17.jpg" /><br>
 </p>
-#### Camera:
+
+- #### Camera:
+
 <p align="center">
   <img width = 1000 src="Screenshots/18.jpg" /><br>
   <img width = 1000 src="Screenshots/19.jpg" /><br>
