@@ -8,9 +8,8 @@
 ### REQUIREMENTS :
 - python 3
 - tkinter
-- filedialog from tkinter
 - messagebox
-- from PIL import Image, ImageTk
+- PIL
 - cv2
 - argparse
 - matplotlib.pyplot
@@ -18,6 +17,7 @@
 - time
 - os
 - tensorflow
+- fpdf
 
 ****
 
