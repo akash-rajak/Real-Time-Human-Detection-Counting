@@ -28,7 +28,9 @@
 - When user selects any of the first two option, he/she needs to select the respective files using SELECT button.
 - User can preview the selected file using PREVIEW button, and detect and count the humans using DETECT button.
 - And when user selects, the last option of detecting through camera, user need to open the Camera, using OPEN CAMERA button, As soon as camera opens, detection process will start.
-- After detection process gets completed or user manually completes it, two graph get plotted, 1.) Enumeration Plot(Human Count Vs. time) and 2.) Avg. Accuracy Plot(Avg. Accuracy Vs. time).
+- After detection process gets completed or user manually completes it, two graph get plotted, 
+	- 1.) Enumeration Plot(Human Count Vs. time) and 
+	- 2.) Avg. Accuracy Plot(Avg. Accuracy Vs. time).
 - Along with this two plots, an option to generate crowd report also appears, On clicking on it, a crowd report in form of PDF is generated ans saved autmatically at the project file location.
 - In the crowd report genrated, there will be information like, What is Max Human Count, Max Accuracy, Max Avg. Accuracy, and also a two line status about crowd.
 
