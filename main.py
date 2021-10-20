@@ -205,7 +205,7 @@ if exit1==False:
                 if classes[i] == 1 and scores[i] > threshold:
                     box = boxes[i]
                     person += 1
-                    cv2.rectangle(img, (box[1], box[0]), (box[3], box[2]), (255,0,0), 2)  # cv2.FILLED
+                    cv2.rectangle(img, (box[1], box[0]), (box[3], box[2]), (255,0,0), 2)  # cv2.FILLED #BGR
                     cv2.putText(img, f'P{person, round(scores[i], 2)}', (box[1] - 30, box[0] - 8), cv2.FONT_HERSHEY_COMPLEX,0.5, (0, 0, 255), 1)  # (75,0,130),
                     acc += scores[i]
                     if (scores[i] > max_acc1):
