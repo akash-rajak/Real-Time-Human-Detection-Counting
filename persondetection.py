@@ -1,11 +1,9 @@
-
-
 import numpy as np
 import tensorflow as tf
 # import cv2
 import time
 import os
-import tensorflow.compat.v1 as tf
+import tensorflow._api.v2.compat.v1 as tf
 tf.disable_v2_behavior()
 
 
