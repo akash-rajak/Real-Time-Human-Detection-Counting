@@ -155,7 +155,7 @@ if exit1==False:
                 plt.ylabel('Human Count')
                 plt.legend()
                 plt.title("Enumeration Plot")
-                plt.get_current_fig_manager().canvas.set_window_title("Plot for Image")
+                plt.get_current_fig_manager().canvas.set_window_title("Plot for Image") #plt.manager.set_window_title("Plot for Image")
                 plt.show()
 
             def img_accuracy_plot():
