@@ -539,6 +539,7 @@ if exit1==False:
 
         # function defined to detect from camera
         def detectByCamera(writer):
+            #global variable created
             global max_count3, framex3, county3, max3, avg_acc3_list, max_avg_acc3_list, max_acc3, max_avg_acc3
             max_count3 = 0
             framex3 = []
