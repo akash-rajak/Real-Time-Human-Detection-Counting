@@ -23,7 +23,7 @@
 
 ### How this Script works :
 - User just need to download the file and run the main.py on their local system.
-- On th starting window of the application, user will be able to see START and EXIT option, using which user can start the application or exit from the application.
+- On the starting window of the application, user will be able to see START and EXIT option, using which user can start the application or exit from the application.
 - When user starts the application using START button, a new window will open, which allows user with options like, DETECT FROM IMAGE, DETECT FROM VIDEO or DETECT FROM CAMERA.
 - When user selects any of the first two option, he/she needs to select the respective files using SELECT button.
 - User can preview the selected file using PREVIEW button, and detect and count the humans using DETECT button.
