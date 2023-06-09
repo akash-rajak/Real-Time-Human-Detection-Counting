@@ -3,21 +3,63 @@
 - Also along with detecting, it also counts the maximum no. of people appeared.
 - It also visualize the data of no. of human detected and the avg. accuracy with which humans got detected w.r.t. time, using graph plot.
 
+<p align = "center">
+	<img src = "https://img.shields.io/github/stars/akash-rajak/Real-Time-Human-Detection-Counting?style=social", alt = "GitHub Repo stars">
+	<img src = "https://img.shields.io/github/forks/akash-rajak/Real-Time-Human-Detection-Counting?style=social", alt = "GitHub Repo forks">
+	<img src = "https://img.shields.io/github/watchers/akash-rajak/Real-Time-Human-Detection-Counting?style=social", alt = "GitHub Repo watchers">
+	<img src = "https://img.shields.io/github/contributors/akash-rajak/Real-Time-Human-Detection-Counting?style=social", alt = "GitHub contributors">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/languages/count/akash-rajak/Real-Time-Human-Detection-Counting?style=social", alt = "GitHub language count">
+	<img src = "https://img.shields.io/github/languages/top/akash-rajak/Real-Time-Human-Detection-Counting?style=social", alt = "GitHub top language">
+	<img src = "https://img.shields.io/github/directory-file-count/akash-rajak/Real-Time-Human-Detection-Counting?style=social", alt = "GitHub repo file count">
+	<img src = "https://img.shields.io/github/repo-size/akash-rajak/Real-Time-Human-Detection-Counting?style=social", alt = "GitHub repo size">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/issues/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub issues">
+	<img src = "https://img.shields.io/github/issues-closed/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub closed issues">
+	<img src = "https://img.shields.io/github/issues-pr/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub pull requests">
+	<img src = "https://img.shields.io/github/issues-pr-closed/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub closed pull requests">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/commit-activity/t/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub commit activity">
+	<img src = "https://img.shields.io/github/commit-activity/y/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub commit activity/year">
+	<img src = "https://img.shields.io/github/commit-activity/m/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub commit activity/month">
+	<img src = "https://img.shields.io/github/commit-activity/w/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub commit activity/week">
+	<img src = "https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting", alt = "">
+</p>
+
+![GitHub](https://img.shields.io/github/license/akash-rajak/Real-Time-Human-Detection-Counting)
+
 <!--
+
 ![GitHub language count](https://img.shields.io/github/languages/count/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub top language](https://img.shields.io/github/languages/top/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub repo size](https://img.shields.io/github/repo-size/akash-rajak/Real-Time-Human-Detection-Counting)
-![GitHub issues](https://img.shields.io/github/issues/akash-rajak/PyVolSuggester)
-![GitHub issues](https://img.shields.io/github/issues-raw/akash-rajak/PyVolSuggester)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/akash-rajak/PyVolSuggester)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/akash-rajak/PyVolSuggester)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/akash-rajak/PyVolSuggester)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/akash-rajak/PyVolSuggester)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/akash-rajak/Real-Time-Human-Detection-Counting)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/akash-rajak/Real-Time-Human-Detection-Counting)
-![GitHub](https://img.shields.io/github/license/akash-rajak/Real-Time-Human-Detection-Counting)
 
+![GitHub issues](https://img.shields.io/github/issues/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/akash-rajak/Real-Time-Human-Detection-Counting)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub Repo forks](https://img.shields.io/github/forks/akash-rajak/Real-Time-Human-Detection-Counting?style=social)
+![GitHub Repo watchers](https://img.shields.io/github/watchers/akash-rajak/Real-Time-Human-Detection-Counting?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/akash-rajak/Real-Time-Human-Detection-Counting)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub commit activity/year](https://img.shields.io/github/commit-activity/y/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub commit activity/month](https://img.shields.io/github/commit-activity/m/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub commit activity/week](https://img.shields.io/github/commit-activity/w/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub last commit](https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting)
+
+This can be added as paragraph, and inside it pasting the html copied text, and making the paragraph center aligned
+
+![GitHub issues](https://img.shields.io/github/issues-raw/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/akash-rajak/Real-Time-Human-Detection-Counting)
 -->
 
 ****
