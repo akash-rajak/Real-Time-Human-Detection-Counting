@@ -3,6 +3,23 @@
 - Also along with detecting, it also counts the maximum no. of people appeared.
 - It also visualize the data of no. of human detected and the avg. accuracy with which humans got detected w.r.t. time, using graph plot.
 
+<!--
+![GitHub language count](https://img.shields.io/github/languages/count/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub top language](https://img.shields.io/github/languages/top/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub repo size](https://img.shields.io/github/repo-size/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub issues](https://img.shields.io/github/issues/akash-rajak/PyVolSuggester)
+![GitHub issues](https://img.shields.io/github/issues-raw/akash-rajak/PyVolSuggester)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/akash-rajak/PyVolSuggester)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/akash-rajak/PyVolSuggester)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/akash-rajak/PyVolSuggester)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/akash-rajak/PyVolSuggester)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub](https://img.shields.io/github/license/akash-rajak/Real-Time-Human-Detection-Counting)
+
+-->
+
 ****
 
 ### REQUIREMENTS : 
