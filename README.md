@@ -28,8 +28,9 @@
 	<img src = "https://img.shields.io/github/commit-activity/w/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub commit activity/week">
 	<img src = "https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting", alt = "">
 </p>
-
-![GitHub](https://img.shields.io/github/license/akash-rajak/Real-Time-Human-Detection-Counting)
+<p align = "center">
+	<img src = "https://img.shields.io/github/license/akash-rajak/Real-Time-Human-Detection-Counting", alt = "Github">
+</p>
 
 <!--
 
@@ -53,6 +54,8 @@
 ![GitHub commit activity/month](https://img.shields.io/github/commit-activity/m/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub commit activity/week](https://img.shields.io/github/commit-activity/w/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub last commit](https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting)
+
+![GitHub](https://img.shields.io/github/license/akash-rajak/Real-Time-Human-Detection-Counting)
 
 This can be added as paragraph, and inside it pasting the html copied text, and making the paragraph center aligned
 
@@ -80,7 +83,7 @@ This can be added as paragraph, and inside it pasting the html copied text, and 
 
 ****
 
-### 📌📌How this Script works :
+### 📌How this Script works :
 - User just need to download the file and run the main.py on their local system.
 - On the starting window of the application, user will be able to see START and EXIT option, using which user can start the application or exit from the application.
 - When user starts the application using START button, a new window will open, which allows user with options like, DETECT FROM IMAGE, DETECT FROM VIDEO or DETECT FROM CAMERA.
@@ -145,6 +148,11 @@ This can be added as paragraph, and inside it pasting the html copied text, and 
   <img width = 1000 src="Screenshots/22.jpg" /><br>
   <img width = 1000 src="Screenshots/23.jpg" /><br>
 </p>
+
+****
+
+### 🌟Stargazers Over Time:
+[![Stargazers over time](https://starchart.cc/akash-rajak/Real-Time-Human-Detection-Counting.svg)](https://starchart.cc/akash-rajak/Real-Time-Human-Detection-Counting)
 
 ****
 
