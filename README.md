@@ -26,7 +26,8 @@
 	<img src = "https://img.shields.io/github/commit-activity/y/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub commit activity/year">
 	<img src = "https://img.shields.io/github/commit-activity/m/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub commit activity/month">
 	<img src = "https://img.shields.io/github/commit-activity/w/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub commit activity/week">
-	<img src = "https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting", alt = "">
+	<img src = "https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub last commit">
+	<img src = "https://img.shields.io/github/discussions/akash-rajak/Real-Time-Human-Detection-Counting", alt = "GitHub Discussions">
 </p>
 <p align = "center">
 	<img src = "https://img.shields.io/github/license/akash-rajak/Real-Time-Human-Detection-Counting", alt = "Github">
@@ -54,6 +55,7 @@
 ![GitHub commit activity/month](https://img.shields.io/github/commit-activity/m/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub commit activity/week](https://img.shields.io/github/commit-activity/w/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub last commit](https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub Discussions](https://img.shields.io/github/discussions/akash-rajak/PyVolSuggester)
 
 ![GitHub](https://img.shields.io/github/license/akash-rajak/Real-Time-Human-Detection-Counting)
 
