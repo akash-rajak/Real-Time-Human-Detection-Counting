@@ -1,7 +1,6 @@
 ## ✔ REAL TIME HUMAN DETECTION & COUNTING
-- An application which allows to detect human or people's in any image, video or even through Camera.
-- Also along with detecting, it also counts the maximum no. of people appeared.
-- It also visualize the data of no. of human detected and the avg. accuracy with which humans got detected w.r.t. time, using graph plot.
+- A tensorflow based `Faster RCNN inception v2` python model to detect and count humans in real time images, videos & camera.
+- Used pre-trained `frozen_inference_graph.pb` frozen graph to handle the detection.
 
 <p align = "center">
 	<img src = "https://img.shields.io/github/stars/akash-rajak/Real-Time-Human-Detection-Counting?style=social", alt = "GitHub Repo stars">
