@@ -154,7 +154,14 @@ This can be added as paragraph, and inside it pasting the html copied text, and 
 ****
 
 ### 🌟Stargazers Over Time:
+[![Stargazers repo roster for @akash-rajak/Real-Time-Human-Detection-Counting](https://reporoster.com/stars/akash-rajak/Real-Time-Human-Detection-Counting)](https://github.com/akash-rajak/Real-Time-Human-Detection-Counting/stargazers)
+
 [![Stargazers over time](https://starchart.cc/akash-rajak/Real-Time-Human-Detection-Counting.svg)](https://starchart.cc/akash-rajak/Real-Time-Human-Detection-Counting)
+
+****
+
+### 🌟Forkers Over Time:
+[![Forkers repo roster for @akash-rajak/Real-Time-Human-Detection-Counting](https://reporoster.com/forks/akash-rajak/Real-Time-Human-Detection-Counting)](https://github.com/akash-rajak/Real-Time-Human-Detection-Counting/network/members)
 
 ****
 
